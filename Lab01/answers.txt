@@ -1,0 +1,2 @@
+1. If the user choose "Cancel" then the message will be appeared as "You've chosen: No".
+2. We can customize the options for user by using the (options) parameter of the 'showOptionDialog' method.
