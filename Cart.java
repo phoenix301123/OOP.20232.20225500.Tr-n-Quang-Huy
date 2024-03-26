@@ -74,4 +74,10 @@ public class Cart {
 		String formattedTotalCost = String.format("%.2f", totalCost);
 		System.out.println(formattedTotalCost);
 	}
+	//Overloading by differing a number of parameters
+	public void addDigitalVideoDisc(DigitalVideoDisc dvd1, DigitalVideoDisc dvd2) {
+    		addDigitalVideoDisc(dvd1);
+   		addDigitalVideoDisc(dvd2);
+	}
+
 }
