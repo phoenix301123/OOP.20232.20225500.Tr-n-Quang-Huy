@@ -42,5 +42,23 @@ public abstract class Media {
 	public float getCost() {
 		return cost;
 	}
-
+	
+	@Override
+    public String toString() {
+        return "Media: " + this.getTitle() +
+                " - Category: " + this.getCategory() +
+                " - Cost: " + this.getCost() + "$";
+    }
+	
+	//Override equals method
+	@Override
+    public boolean equals(Object obj) {
+        if (obj == this) {
+            return true;
+        }
+        if (!(obj instanceof Media)) {
+            return false;
+        }
+        return ((Media)obj).getTitle() == this.getTitle();
+    }
 }
