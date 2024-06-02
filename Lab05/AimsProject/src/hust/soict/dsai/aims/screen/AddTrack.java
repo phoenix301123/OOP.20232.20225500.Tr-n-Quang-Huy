@@ -1,9 +1,9 @@
-package hust.soict.cybersec.aims.screen;
+package hust.soict.dsai.aims.screen;
 
 import javax.swing.JFrame;
 
-import hust.soict.cybersec.aims.media.CompactDisc;
-import hust.soict.cybersec.aims.screen.controller.AddTrackScreenController;
+import hust.soict.dsai.aims.media.CompactDisc;
+import hust.soict.dsai.aims.screen.controller.AddTrackScreenController;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.fxml.FXMLLoader;
