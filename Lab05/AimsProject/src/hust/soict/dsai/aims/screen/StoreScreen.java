@@ -1,4 +1,4 @@
-package hust.soict.cybersec.aims.screen;
+package hust.soict.dsai.aims.screen;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,9 +7,9 @@ import java.awt.event.*;
 
 
 
-import hust.soict.cybersec.aims.store.Store;
-import hust.soict.cybersec.aims.cart.Cart;
-import hust.soict.cybersec.aims.media.*;
+import hust.soict.dsai.aims.store.Store;
+import hust.soict.dsai.aims.cart.Cart;
+import hust.soict.dsai.aims.media.*;
 
 
 public class StoreScreen extends JFrame {
