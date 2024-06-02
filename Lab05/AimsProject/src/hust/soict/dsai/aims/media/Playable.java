@@ -1,4 +1,4 @@
-package hust.soict.cybersec.aims.media;
+package hust.soict.dsai.aims.media;
 
 public interface Playable {
     
