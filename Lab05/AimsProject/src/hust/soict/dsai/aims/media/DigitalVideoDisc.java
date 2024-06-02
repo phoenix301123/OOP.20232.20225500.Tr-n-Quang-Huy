@@ -1,6 +1,6 @@
-package hust.soict.cybersec.aims.media;
+package hust.soict.dsai.aims.media;
 
-import hust.soict.cybersec.aims.exception.PlayerException;
+import hust.soict.dsai.aims.exception.PlayerException;
 
 public class DigitalVideoDisc extends Disc implements Playable {
     
