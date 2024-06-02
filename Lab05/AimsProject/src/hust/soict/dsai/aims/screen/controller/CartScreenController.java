@@ -1,9 +1,9 @@
-package hust.soict.cybersec.aims.screen.controller;
+package hust.soict.dsai.aims.screen.controller;
 
-import hust.soict.cybersec.aims.cart.Cart;
-import hust.soict.cybersec.aims.exception.PlayerException;
-import hust.soict.cybersec.aims.media.Media;
-import hust.soict.cybersec.aims.media.Playable;
+import hust.soict.dsai.aims.cart.Cart;
+import hust.soict.dsai.aims.exception.PlayerException;
+import hust.soict.dsai.aims.media.Media;
+import hust.soict.dsai.aims.media.Playable;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.transformation.FilteredList;
