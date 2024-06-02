@@ -1,8 +1,8 @@
 package hust.soict.dsai.test.cart;
 import javax.naming.LimitExceededException;
 
-import hust.soict.cybersec.aims.cart.Cart;
-import hust.soict.cybersec.aims.media.DigitalVideoDisc;
+import hust.soict.dsai.aims.cart.Cart;
+import hust.soict.dsai.aims.media.DigitalVideoDisc;
 
 public class CartTest {
     public static void main(String[] args) throws LimitExceededException {
