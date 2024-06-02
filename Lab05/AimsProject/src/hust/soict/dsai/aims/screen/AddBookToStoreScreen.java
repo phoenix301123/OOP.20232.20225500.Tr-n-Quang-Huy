@@ -1,13 +1,13 @@
-package hust.soict.cybersec.aims.screen;
+package hust.soict.dsai.aims.screen;
 
 import javax.swing.JFrame;
-import hust.soict.cybersec.aims.screen.controller.AddBookScreenController;
+import hust.soict.dsai.aims.screen.controller.AddBookScreenController;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import hust.soict.cybersec.aims.store.Store;
+import hust.soict.dsai.aims.store.Store;
 
 public class AddBookToStoreScreen extends JFrame{
 
