@@ -1,8 +1,8 @@
-package hust.soict.cybersec.aims.media;
+package hust.soict.dsai.aims.media;
 
 import java.time.Duration;
 
-import hust.soict.cybersec.aims.exception.PlayerException;
+import hust.soict.dsai.aims.exception.PlayerException;
 
 public class Track implements Playable {
     
