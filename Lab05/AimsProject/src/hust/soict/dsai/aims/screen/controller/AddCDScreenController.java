@@ -1,11 +1,11 @@
-package hust.soict.cybersec.aims.screen.controller;
+package hust.soict.dsai.aims.screen.controller;
 
 import java.net.URL;
 import java.util.ResourceBundle;
 
-import hust.soict.cybersec.aims.media.CompactDisc;
-import hust.soict.cybersec.aims.screen.AddTrack;
-import hust.soict.cybersec.aims.store.Store;
+import hust.soict.dsai.aims.media.CompactDisc;
+import hust.soict.dsai.aims.screen.AddTrack;
+import hust.soict.dsai.aims.store.Store;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
