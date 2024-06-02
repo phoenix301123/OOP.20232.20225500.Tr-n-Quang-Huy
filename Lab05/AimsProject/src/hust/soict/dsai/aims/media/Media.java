@@ -3,7 +3,7 @@ package hust.soict.dsai.aims.media;
 import java.time.Duration;
 import java.util.Comparator;
 
-import hust.soict.cybersec.aims.exception.PlayerException;
+import hust.soict.dsai.aims.exception.PlayerException;
 
 public abstract class Media implements Comparable<Media> {
 
