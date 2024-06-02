@@ -1,8 +1,8 @@
-package hust.soict.cybersec.test.media;
+package hust.soict.dsai.test.media;
 
 import java.util.*;
 
-import hust.soict.cybersec.aims.media.*;
+import hust.soict.dsai.aims.media.*;
 
 public class MediaTest {
     
